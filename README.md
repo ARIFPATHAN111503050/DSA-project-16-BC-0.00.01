@@ -19,3 +19,4 @@ also converts binary to decimal and decimal to binary. commands bas () .provide 
 initially scale set to 0.
 added a feature can performs matrix operation addition subtraction .... input not provided..through file handling.
 and all the cases not handled.advantage can be used to calculate numbers of unlimited length with time complexicity of kn ~ <<< n^2.
+PLEASE LEAVE SPACE AFTER EVERY TOKEN  FOR EG (SIN 45) not sin45.
