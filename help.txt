@@ -1,0 +1,5 @@
+This a simple command line calculator . 
+POSTFIX expression
+use space to seperate tokens for trignometric function
+'s' for scale 'c' for clear 'd' for exit 't' for time
+bas 2 for base conversion binary to decimal and  10 decimal to binary.
