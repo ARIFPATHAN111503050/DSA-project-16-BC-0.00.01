@@ -17,4 +17,4 @@ commands 't' present time .'c' clear screen for understanding .'d' fot exit. -h 
 also converts binary to decimal and decimal to binary. commands bas () .provide space for the token seperation ....
 initially scale set to 0.
 added a feature can performs matrix operation addition subtraction .... input not provided..through file handling.
-and all the cases not handled.advantage can be used to calculate numbers of unlimited length with time complexicity of kn ~ <<< n^2.
+and all the cases not handled.advantage can be used to calculate numbers of unlimited length with time complexicity of n - n^2.
